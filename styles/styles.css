@@ -1,0 +1,54 @@
+.card{
+    width: 998px;
+    margin: 0 auto;
+    text-align: center;
+   padding: 26px 221px 44px 221px;
+   
+}
+.header{
+    background-image: url('../assets/Hero-bg.png');
+   
+position: absolute;
+width: 1869px;
+height: 652px;
+left: 0;
+right: 0;
+top: 131px;
+bottom: 4465px;
+}
+.btn{
+    padding: 12px 15px 12px 15px;
+    color: rgb(255, 255, 255);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+border-radius: 8px;
+
+background: rgb(13, 19, 33);
+border: none;
+}
+.heading{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 48px;
+font-weight: 800;
+line-height: 68px;
+letter-spacing: 0%;
+text-align: center;
+}
+.pra{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+}
+.section-title{
+    font-size: 32px;
+font-weight: 800;
+color: #0D1321;
+}
