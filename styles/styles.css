@@ -16,6 +16,8 @@ right: 0;
 top: 131px;
 bottom: 4465px;
 }
+
+
 .btn{
     padding: 12px 15px 12px 15px;
     color: rgb(255, 255, 255);
@@ -29,6 +31,54 @@ border-radius: 8px;
 background: rgb(13, 19, 33);
 border: none;
 }
+/* about */
+.section-title{
+    font-size: 32px;
+font-weight: 800;
+color: #0D1321;
+}
+.section-description{
+    font-size: 16px;
+    color: #0D1321;
+}
+.main{
+    background-color: rgba(13, 19, 33, 0.02);
+    max-width: 1140px;
+    margin: 0px auto;
+    border-radius: 16px;
+    padding: 97px 80px;
+   
+    margin-top: 74px;
+}
+.center{
+    text-align: center;
+
+}
+/* .banner-title */
+.banner-title{
+    font-size: 24px;
+font-weight: 700; 
+width: 390px;  
+}
+.banner-discription{
+    font-size: 16px;
+font-weight: 400;
+}
+.banner-profile-pic{
+    width: 274.17px;
+}
+.banner-box{
+    display: flex;
+    justify-content: space-between;
+}
+.baton{
+    margin-top: 32px;
+}
+.banner-content{
+    width: 477px;
+height: 220px;
+}
+/* banner */
 .heading{
     color: rgb(13, 19, 33);
 font-family: Azeret Mono;
@@ -46,9 +96,4 @@ font-weight: 400;
 line-height: 26px;
 letter-spacing: 0%;
 text-align: center;
-}
-.section-title{
-    font-size: 32px;
-font-weight: 800;
-color: #0D1321;
 }
